@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',()=>{console.log('GetTravel Home v3 loaded');});
